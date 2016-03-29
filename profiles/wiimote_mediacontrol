@@ -1,0 +1,11 @@
+[wiimote]
+wiimote.wm_2 = key(key_nextsong)
+wiimote.wm_down = key(key_down)
+wiimote.wm_up = key(key_up)
+wiimote.wm_right = key(key_right)
+wiimote.wm_plus = key(key_volumeup)
+wiimote.wm_1 = key(key_previoussong)
+wiimote.wm_left = key(key_left)
+wiimote.wm_a = key(key_playpause)
+wiimote.wm_minus = key(key_volumedown)
+wiimote.wm_b = key(key_mute)
