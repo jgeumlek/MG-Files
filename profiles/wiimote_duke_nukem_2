@@ -1,0 +1,24 @@
+# MoltenGamepad profile for the game Duke Nukem 2
+
+# Mapping for a Wiimote held sideways (NES style)
+
+# Movement keys (Rotated)
+wiimote.wm_up = key(key_left)
+wiimote.wm_down = key(key_right)
+wiimote.wm_left = key(key_down)
+wiimote.wm_right = key(key_up)
+
+# Confirm
+wiimote.wm_a = key(key_enter)
+# Disable B button
+wiimote.wm_b = nothing
+# Pause Game
+wiimote.wm_home = key(key_p)
+# Back / Quit Menu
+wiimote.wm_minus = key(key_esc)
+# Save Menu
+wiimote.wm_plus = key(key_f2)
+# Fire
+wiimote.wm_1 = key(key_leftalt)
+# Jump
+wiimote.wm_2 = key(key_leftctrl)
