@@ -16,7 +16,7 @@ install -Dm0644 udev.rules /etc/udev/rules.d/90-gamepad.rules
 
 # Reload the various services we have affected.
 udevadm control --reload
-sytemd-tmpfiles --create
+systemd-tmpfiles --create
 systemctl daemon-reload
 systemctl enable moltengamepad.service
 
