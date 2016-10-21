@@ -2,8 +2,6 @@
 
 [Unit]
 Description=MoltenGamepad Event Translator
-After=network.target
-After=bluetooth.target
 
 [Service]
 Type=forking
