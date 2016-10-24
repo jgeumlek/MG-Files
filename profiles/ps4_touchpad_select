@@ -1,0 +1,5 @@
+# Maps the PS4 touchpad click to select. Many PS3 to PS4 adapters map select
+# to the touchpad, as many PS4 fighters have taken to using it for secondary
+# menus since share has hardcoded functionality.
+playstation4-dt.touchpad = select
+playstation4-at.touchpad = select
