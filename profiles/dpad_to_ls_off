@@ -1,0 +1,7 @@
+# Returns the profile to normal after applying dpad-to-ls.
+gamepad.left = left
+gamepad.right = right
+gamepad.up = up
+gamepad.down = down
+gamepad.leftright = (left, right)
+gamepad.updown = (up, down)
