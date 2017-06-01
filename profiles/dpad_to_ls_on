@@ -1,0 +1,10 @@
+# Some older games ignore the d-pad. Explicitly mapping the dpad to the left
+# stick is also good for games that should let the user use either the dpad
+# or left stick, but don't support it for one reason or another.
+# Examples include Atomic Bomberman, Megabyte Punch, and Lethal League.
+#gamepad.left = -left_x
+#gamepad.right = +left_x
+#gamepad.up = -left_y
+#gamepad.down = +left_y
+gamepad.leftright = left_x
+gamepad.updown = left_y
