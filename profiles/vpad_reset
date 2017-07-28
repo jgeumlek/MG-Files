@@ -1,0 +1,29 @@
+# MoltenGamepad doesn't have an "unload profiles", so just use this after
+# loading a profile that changes controls to reset it back to normal.
+
+[gamepad]
+left = left
+right = right
+up = up
+down = down
+leftright = (left, right)
+updown = (up, down)
+left_x = left_x
+left_y = left_y
+right_x = right_x
+right_y = right_y
+primary = primary
+secondary = secondary
+third = third
+fourth = fourth
+tr = tr
+tl = tl
+tr2 = tr2
+tl2 = tl2
+tr2_axis = tr2_axis
+tl2_axis = tl2_axis
+thumbl = thumbl
+thumbr = thumbr
+start = start
+select = select
+mode = mode
