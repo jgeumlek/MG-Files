@@ -1,0 +1,2 @@
+# Do not put debian/ directory into .orig archive. It is archived separately.
+debian/ export-ignore

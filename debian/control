@@ -1,0 +1,19 @@
+Source: moltengamepad-data
+Section: utils
+Priority: optional
+Maintainer: Matthias S. Benkmann <matthias@winterdrache.de>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/mbenkmann/MG-Files
+Vcs-Git: https://github.com/mbenkmann/MG-Files
+Vcs-Browser: https://github.com/mbenkmann/MG-Files
+
+Package: moltengamepad-data
+Architecture: all
+Depends: moltengamepad
+Description: Make using game controllers pain-free
+ This package contains the data files describing various game controllers
+ and mapping them to make all buttons properly correspond to their XBox controller
+ counterparts based on their physical location on the controller.
+ The package also contains udev rules to assign /dev/input nodes for the
+ controllers to the setuid user of moltengamepad.
