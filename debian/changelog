@@ -1,0 +1,11 @@
+moltengamepad-data (2020.11.01-msb1) unstable; urgency=medium
+
+  * add Makefile with "debian" target
+
+ -- Matthias S. Benkmann <matthias@winterdrache.de>  Mon, 19 Oct 2020 11:06:49 +0200
+
+moltengamepad-data (2020.06.01-msb1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Matthias S. Benkmann <matthias@winterdrache.de>  Mon, 25 May 2020 15:12:31 +0200

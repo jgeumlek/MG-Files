@@ -1,0 +1,4 @@
+gendevices/*.cfg     etc/xdg/moltengamepad/gendevices
+profiles/*           etc/xdg/moltengamepad/profiles
+profiles-auto/*.cfg  etc/xdg/moltengamepad/profiles/auto
+debian/40-gamepad-ownership.rules etc/udev/rules.d
